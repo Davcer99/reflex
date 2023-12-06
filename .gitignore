@@ -1,0 +1,11 @@
+*.db
+
+*.py[cod]
+
+.web
+
+/venv
+
+__pycache__/
+
+/venv
